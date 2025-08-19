@@ -1,5 +1,11 @@
 streamlit
+python-docx
+matplotlib
 pandas
 numpy
-pymupdf
-python-docx
+scikit-learn
+nltk
+spacy
+seaborn
+transformers
+sentence-transformers
