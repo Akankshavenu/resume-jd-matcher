@@ -7,5 +7,6 @@ scikit-learn
 nltk
 spacy
 seaborn
+PyMuPDF
 transformers
 sentence-transformers
